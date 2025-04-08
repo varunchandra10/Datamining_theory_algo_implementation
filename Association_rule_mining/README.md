@@ -107,9 +107,7 @@ $$
 Confidence measures the reliability of the rule. It tells us the probability of item B being purchased when item A is purchased.
 
 **Formula:**  
-$$
-\text{Confidence}(A \Rightarrow B) = \frac{\text{Support}(A \cup B)}{\text{Support}(A)}
-$$
+$$ \text{Confidence}(A \Rightarrow B) = \frac{\text{Support}(A \cup B)}{\text{Support}(A)} $$
 ---
 
 ### 3. Lift
