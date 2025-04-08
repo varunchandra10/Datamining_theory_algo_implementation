@@ -94,10 +94,7 @@ IF A THEN B or  A => B where :
 Support tells us how frequently a particular itemset appears in the dataset.
 
 **Formula:**  
-$$
-\text{Support}(A \Rightarrow B) = \frac{\text{Number of transactions containing both } A \text{ and } B}{\text{Total number of transactions}}
-$$
-
+Support(A → B) = (Number of transactions containing both A and B) / (Total number of transactions)
 
 ---
 
@@ -107,7 +104,8 @@ $$
 Confidence measures the reliability of the rule. It tells us the probability of item B being purchased when item A is purchased.
 
 **Formula:**  
-$$ \text{Confidence}(A \Rightarrow B) = \frac{\text{Support}(A \cup B)}{\text{Support}(A)} $$
+Confidence(A → B) = Support(A ∪ B) / Support(A)
+
 ---
 
 ### 3. Lift
@@ -116,9 +114,8 @@ $$ \text{Confidence}(A \Rightarrow B) = \frac{\text{Support}(A \cup B)}{\text{Su
 Lift tells us how much more likely item B is to be purchased when A is purchased, compared to when B is purchased independently.
 
 **Formula:**  
-$$
-\text{Lift}(A \Rightarrow B) = \frac{\text{Confidence}(A \Rightarrow B)}{\text{Support}(B)}
-$$
+Lift(A → B) = Confidence(A → B) / Support(B)
+
 
 **Conditions:**  
 - Lift = 1 → A and B are independent  
