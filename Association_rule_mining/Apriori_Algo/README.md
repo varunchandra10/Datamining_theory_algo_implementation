@@ -1,6 +1,8 @@
 # Apriori Algorithm
 
 ## What is the Apriori Algorithm?
+Introducted by R.Agarwal and R.Srikant in 1994 in 1994 for mining frequent itemstes.
+
 The Apriori Algorithm is a classic algorithm in data mining used to:
 - Discover frequent itemsets in a transaction dataset.
 - Use a "Bottom-up" (breadth-first) approach with candidate generation.
