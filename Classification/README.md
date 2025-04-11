@@ -59,7 +59,6 @@ Multi-label classification is different from the previous two: it allows each in
 
 ---
 
-### Categorization of classification in datamining
 ## 🧠 Categorization of Classification in Data Mining
 
 | Category                        | Description                                                                                                                                                                |
