@@ -42,7 +42,7 @@ Multi-label classification is different from the previous two: it allows each in
 - **News Tagging:** An article might be tagged as Politics, Economy, and International.
 - **Medical Diagnosis:** A patient might have multiple diseases simultaneously — e.g., Diabetes, Hypertension, and Obesity.
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/db5ebf8b-1304-4fa8-b2c5-d8a91d292454)
 
 ### 🪜Steps in Classification
 
