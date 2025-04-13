@@ -1,0 +1,1001 @@
+Age,Education,City,Income,SpendingScore
+Senior,MastersDegree,Miami,118051.61,71.5
+Adult,PhD,Boston,121790.52,34.25
+Adult,PhD,,38182.68,2.82
+Adult,AssociateDegree,Austin,85123.77,78.34
+,MastersDegree,New York,109113.65,26.72
+,,Austin,58724.35,33.42
+Senior,MastersDegree,New York,66007,36.84
+Senior,PhD,Chicago,145751.36,90.37
+YoungAdult,MastersDegree,Boston,61911.38,24.18
+Senior,PhD,San Francisco,37542.2,
+,MastersDegree,Boston,99648.33,97.66
+YoungAdult,PhD,Seattle,101673.63,6.45
+,AssociateDegree,Austin,41946.83,83.05
+Senior,PhD,San Francisco,111947.09,71.58
+Senior,HighSchool,Miami,88470.39,
+YoungAdult,HighSchool,San Francisco,50660.38,10.01
+Adult,MastersDegree,Boston,53591.81,98.37
+Senior,BachelorsDegree,New York,143271.79,26.99
+Senior,HighSchool,Chicago,62018.11,
+Adult,HighSchool,Miami,65859.36,10.61
+Adult,AssociateDegree,Boston,30448.46,41.25
+Senior,AssociateDegree,Seattle,69899.03,20.3
+Adult,MastersDegree,Austin,70855.82,84.67
+YoungAdult,PhD,San Francisco,94869.03,58.94
+,BachelorsDegree,Austin,67567.47,86.18
+Adult,HighSchool,New York,34252.79,61.52
+YoungAdult,MastersDegree,New York,128474.25,2.36
+,AssociateDegree,Seattle,101722.68,78.48
+YoungAdult,PhD,Miami,30673.87,35.58
+Senior,HighSchool,Los Angeles,60778.07,25.19
+,MastersDegree,Austin,48273.43,8.98
+,HighSchool,Chicago,57159.38,55.65
+YoungAdult,PhD,Miami,61800.55,60.88
+Senior,PhD,New York,62663.27,1.04
+YoungAdult,PhD,,38436.37,29.04
+YoungAdult,HighSchool,Chicago,127414.51,84.43
+Adult,BachelorsDegree,Chicago,51823.8,8.17
+YoungAdult,MastersDegree,Chicago,,92.59
+YoungAdult,AssociateDegree,Miami,109708.66,54.36
+YoungAdult,MastersDegree,San Francisco,96190.81,24.03
+YoungAdult,MastersDegree,Los Angeles,38074.85,73.25
+,HighSchool,Seattle,89819.05,28.86
+Adult,HighSchool,New York,125497.22,59.15
+Teen,,San Francisco,80740.65,
+Adult,PhD,,51476.11,76.66
+YoungAdult,HighSchool,,129099.38,59.47
+Adult,BachelorsDegree,Los Angeles,111790.31,80.81
+YoungAdult,HighSchool,Los Angeles,141308.86,36.65
+,PhD,Los Angeles,83317.36,12.4
+,BachelorsDegree,Los Angeles,59339.26,1
+YoungAdult,MastersDegree,Miami,110711.01,41.59
+Adult,HighSchool,Miami,131668.45,9.67
+Senior,PhD,Miami,45403.99,
+YoungAdult,HighSchool,Los Angeles,57388.38,46.09
+YoungAdult,PhD,Boston,105847.75,42.02
+Teen,AssociateDegree,Chicago,111911.27,63.5
+YoungAdult,PhD,Chicago,38425.27,69.72
+,AssociateDegree,Austin,64260.33,9.37
+Senior,PhD,Austin,,23.75
+YoungAdult,MastersDegree,Austin,68095.27,78.29
+Adult,PhD,Los Angeles,53024.81,3.98
+Teen,HighSchool,Miami,61577.35,54.95
+Adult,AssociateDegree,Seattle,66825.23,52.76
+YoungAdult,HighSchool,Chicago,86468.37,80.47
+YoungAdult,HighSchool,San Francisco,,23.85
+YoungAdult,HighSchool,Boston,,35.06
+YoungAdult,PhD,San Francisco,94506.59,2.57
+Senior,MastersDegree,Austin,,78.46
+Senior,PhD,Austin,130807.21,19.81
+,MastersDegree,Boston,102485.88,
+Teen,HighSchool,Miami,45634.61,38.45
+Senior,AssociateDegree,,139052.52,79.34
+YoungAdult,BachelorsDegree,Los Angeles,140844.24,86.01
+Senior,BachelorsDegree,Miami,70804.73,22.86
+Adult,HighSchool,Seattle,122209.69,86
+YoungAdult,BachelorsDegree,New York,132802.26,62.13
+YoungAdult,BachelorsDegree,Miami,132618.76,38.97
+Senior,AssociateDegree,Seattle,64342.11,42.03
+,MastersDegree,New York,74018.87,18.39
+Adult,BachelorsDegree,Boston,139779.29,90.33
+Senior,MastersDegree,San Francisco,41316.82,27.62
+Senior,MastersDegree,Miami,31816.13,
+Teen,BachelorsDegree,Seattle,53712.99,95.13
+Senior,HighSchool,New York,52844.91,34.03
+YoungAdult,AssociateDegree,Miami,95325.73,74.7
+Teen,MastersDegree,Seattle,133277.6,65.44
+Adult,PhD,New York,147063.79,95.19
+YoungAdult,MastersDegree,Austin,96875.23,1.72
+Adult,BachelorsDegree,Austin,49886.08,25.7
+Senior,AssociateDegree,Austin,33185,0.2
+Teen,HighSchool,Seattle,51936.83,27.98
+YoungAdult,HighSchool,New York,52496.24,69.53
+Senior,AssociateDegree,Miami,139179.42,36.79
+YoungAdult,BachelorsDegree,Boston,79346.37,8.98
+YoungAdult,AssociateDegree,Boston,81430.72,8.43
+YoungAdult,BachelorsDegree,Chicago,,29.8
+YoungAdult,AssociateDegree,Boston,62697.09,1.88
+,HighSchool,New York,136124.76,86.11
+Teen,MastersDegree,Seattle,131440.06,78.1
+Senior,HighSchool,New York,41377.8,91.66
+Adult,PhD,Los Angeles,50614.11,44.42
+Senior,MastersDegree,Chicago,,53.62
+YoungAdult,MastersDegree,New York,54916.84,49.62
+Adult,PhD,Seattle,38515.98,99.51
+Adult,BachelorsDegree,Miami,102503.98,32.95
+Teen,MastersDegree,,59801.14,9.87
+Senior,HighSchool,Boston,136783.3,81.15
+YoungAdult,HighSchool,Austin,58019.7,99.98
+,PhD,Seattle,80553.19,57.62
+YoungAdult,HighSchool,Austin,46756.58,
+Teen,,Miami,,86.81
+Senior,AssociateDegree,New York,92879.86,
+YoungAdult,MastersDegree,Miami,109741.31,66.42
+YoungAdult,HighSchool,New York,30020.12,40.69
+Adult,BachelorsDegree,New York,44618.5,57.79
+Senior,PhD,Austin,,
+Senior,BachelorsDegree,New York,,3.3
+Adult,PhD,San Francisco,128551.52,21.11
+Senior,MastersDegree,New York,113662.76,72.3
+,MastersDegree,Chicago,45009.32,66.77
+Senior,MastersDegree,Chicago,122641.62,22.42
+YoungAdult,,Miami,115668.7,60.91
+Senior,AssociateDegree,Los Angeles,132540.61,75.95
+Senior,MastersDegree,Boston,116561.51,27.22
+Adult,AssociateDegree,San Francisco,30429.27,46.68
+YoungAdult,PhD,Boston,74562.54,54.82
+Senior,HighSchool,San Francisco,134287.58,91.14
+YoungAdult,MastersDegree,Miami,54780.47,51.83
+Adult,AssociateDegree,Seattle,55904.22,17.33
+Senior,HighSchool,Boston,35009.54,4.84
+Adult,MastersDegree,,94231.62,97.25
+Adult,PhD,Austin,89964.46,88.89
+YoungAdult,BachelorsDegree,Seattle,,72.53
+Adult,MastersDegree,New York,,73.05
+Adult,HighSchool,Los Angeles,76963.13,85.16
+Adult,MastersDegree,Austin,99550.75,5.07
+Senior,HighSchool,Chicago,95034.01,4.28
+,AssociateDegree,Boston,37064.07,3.05
+YoungAdult,AssociateDegree,,30050.85,57.8
+Adult,AssociateDegree,Seattle,,
+Senior,HighSchool,New York,,26.58
+,PhD,Chicago,,55.96
+Adult,AssociateDegree,Chicago,86274.27,63.16
+Adult,MastersDegree,San Francisco,141185.93,68.88
+YoungAdult,AssociateDegree,Seattle,148743.63,77.94
+Adult,AssociateDegree,Chicago,65725.31,61.95
+YoungAdult,AssociateDegree,Chicago,43629.47,28.11
+YoungAdult,PhD,New York,122432.56,93.16
+YoungAdult,AssociateDegree,Boston,61576.34,16.95
+YoungAdult,BachelorsDegree,Miami,112242.55,90.1
+Adult,BachelorsDegree,Chicago,96791.49,13.76
+YoungAdult,AssociateDegree,Austin,71394.16,86.85
+Adult,BachelorsDegree,Los Angeles,138058.17,83.91
+Senior,BachelorsDegree,Chicago,107969.47,
+YoungAdult,HighSchool,New York,135867.91,
+Senior,MastersDegree,Miami,60365.71,94.56
+,PhD,Austin,43375.42,61.33
+,HighSchool,New York,101488.33,
+YoungAdult,HighSchool,San Francisco,122010.11,33.99
+Adult,HighSchool,Chicago,38443.25,52.08
+YoungAdult,AssociateDegree,Los Angeles,,97.59
+Adult,BachelorsDegree,Boston,147646.63,44.26
+Senior,MastersDegree,Chicago,37192.71,
+Senior,HighSchool,Seattle,74509.4,
+YoungAdult,BachelorsDegree,Seattle,94624.84,39.55
+YoungAdult,HighSchool,Miami,110851.49,
+YoungAdult,AssociateDegree,Seattle,61335.4,12.32
+,PhD,Chicago,142165.18,93.23
+Senior,PhD,New York,,48.65
+Adult,MastersDegree,Seattle,30434.01,85.85
+Adult,HighSchool,New York,37951.47,10.44
+Teen,BachelorsDegree,San Francisco,,76.37
+Adult,BachelorsDegree,New York,100388.24,4.97
+Senior,AssociateDegree,Austin,42672.8,48.73
+,BachelorsDegree,Miami,87698.13,41.53
+Adult,PhD,Austin,,38.94
+Senior,MastersDegree,New York,44633.46,98.82
+Senior,PhD,San Francisco,59690.39,35.1
+Teen,BachelorsDegree,Boston,32552.15,46.12
+Adult,AssociateDegree,Austin,119688.28,8.98
+Senior,BachelorsDegree,New York,130130.18,94.15
+Adult,HighSchool,New York,66472.13,83.04
+Senior,BachelorsDegree,Boston,40136.34,10.25
+YoungAdult,AssociateDegree,Boston,145099.32,27.32
+YoungAdult,MastersDegree,Miami,40380.97,71.59
+YoungAdult,HighSchool,Boston,68728.36,36.88
+Senior,HighSchool,Seattle,80804.14,73.82
+Adult,MastersDegree,Austin,49990.92,
+Senior,AssociateDegree,Chicago,36864.45,64.6
+YoungAdult,BachelorsDegree,Austin,88061.35,97.46
+Adult,BachelorsDegree,Chicago,88114.17,73.97
+,PhD,San Francisco,143026.96,48.01
+,AssociateDegree,New York,60148.28,54.19
+Adult,BachelorsDegree,,97229.13,10
+Senior,AssociateDegree,San Francisco,30400.55,89.69
+Adult,BachelorsDegree,New York,126381.95,39.72
+Senior,BachelorsDegree,,143403.41,88.43
+Adult,HighSchool,Austin,,27.18
+YoungAdult,PhD,Austin,114236.58,80.44
+Adult,MastersDegree,New York,121983.21,70.57
+Teen,PhD,Los Angeles,43796.76,44.72
+,HighSchool,Boston,132386.49,42.29
+Senior,BachelorsDegree,San Francisco,76414.24,76.85
+Senior,PhD,Austin,99931.57,57.74
+YoungAdult,AssociateDegree,New York,61455.57,51.55
+Adult,PhD,Chicago,77268.78,
+,BachelorsDegree,Austin,86427.52,44.16
+YoungAdult,AssociateDegree,,40297.26,15.89
+,BachelorsDegree,Chicago,143782.69,29.97
+Senior,MastersDegree,New York,103745.99,38.39
+Teen,,,106796.91,23.75
+,BachelorsDegree,New York,108904.76,88.53
+YoungAdult,AssociateDegree,Boston,149495.78,50.26
+Adult,HighSchool,Seattle,106905.51,15.91
+,BachelorsDegree,Los Angeles,129912.36,57.58
+Senior,HighSchool,New York,111885.41,61.94
+YoungAdult,MastersDegree,Seattle,65483.21,14.88
+Adult,,Boston,57608.3,
+Teen,BachelorsDegree,New York,73484.49,36.3
+Senior,HighSchool,Los Angeles,79502.01,36.99
+Adult,PhD,Chicago,94205.23,71.1
+Adult,HighSchool,Boston,33674.24,66
+Adult,HighSchool,Chicago,61427.3,87.71
+Adult,AssociateDegree,Los Angeles,136603.95,24.94
+YoungAdult,MastersDegree,Boston,,93.37
+YoungAdult,HighSchool,Seattle,35646.04,6.72
+YoungAdult,BachelorsDegree,Boston,42189.1,12.56
+Senior,HighSchool,Chicago,101243.37,36.74
+Teen,AssociateDegree,Boston,111564.3,35.71
+YoungAdult,BachelorsDegree,Chicago,53724.97,73.83
+Adult,,Seattle,145468.83,95.03
+Adult,MastersDegree,Chicago,105115.18,23.02
+,HighSchool,Seattle,67217.52,95.09
+Senior,AssociateDegree,Seattle,,1.56
+YoungAdult,AssociateDegree,Miami,131781.22,31.04
+YoungAdult,,Miami,88829.35,38.19
+YoungAdult,HighSchool,Miami,126932.69,39.19
+Senior,,Miami,88791.79,29.63
+Senior,AssociateDegree,Chicago,52643.47,51.05
+,PhD,San Francisco,91249.4,19.77
+Senior,HighSchool,Seattle,127741.26,55.94
+Senior,,Seattle,,20.61
+Adult,AssociateDegree,Los Angeles,113621.56,60.21
+Senior,PhD,Los Angeles,126785.61,72.19
+Adult,HighSchool,Seattle,46412.27,77.71
+Adult,MastersDegree,Chicago,134169.3,
+,BachelorsDegree,Seattle,30099.94,52.89
+Adult,AssociateDegree,Miami,129977.87,86.58
+,MastersDegree,Seattle,38327.61,7.08
+YoungAdult,AssociateDegree,San Francisco,73351.46,65.43
+YoungAdult,BachelorsDegree,San Francisco,85646.25,2.82
+YoungAdult,MastersDegree,Seattle,101649.84,25.29
+Senior,PhD,Austin,,43.66
+Senior,PhD,Los Angeles,68160.66,
+YoungAdult,MastersDegree,Miami,45483.41,10.54
+Senior,AssociateDegree,Miami,74655.24,31.55
+Senior,AssociateDegree,Austin,127040.39,
+YoungAdult,PhD,New York,116804.98,40.76
+Adult,BachelorsDegree,Los Angeles,41192.82,87.13
+Senior,,Miami,39984.2,61.14
+Adult,PhD,New York,105128.42,13.51
+Adult,,Los Angeles,142885.91,4.42
+YoungAdult,BachelorsDegree,New York,95082.82,15.87
+Senior,MastersDegree,Los Angeles,74315.59,83.72
+Senior,HighSchool,San Francisco,73733.14,19.78
+Senior,BachelorsDegree,New York,,48.81
+Adult,HighSchool,Seattle,51700.98,82.81
+YoungAdult,HighSchool,Los Angeles,120421.7,37.23
+Adult,PhD,San Francisco,101923.09,69.52
+YoungAdult,MastersDegree,Austin,,89.6
+Teen,MastersDegree,Seattle,137549.72,88.78
+Adult,AssociateDegree,Seattle,144462.17,29.24
+Senior,AssociateDegree,,67626.87,34.37
+Adult,HighSchool,,71730.8,54.2
+YoungAdult,PhD,Boston,73309.31,82.95
+Senior,HighSchool,San Francisco,122422.65,23.62
+YoungAdult,HighSchool,Boston,81233.57,69.62
+Senior,MastersDegree,San Francisco,123333.85,94
+,HighSchool,Los Angeles,90808.97,25.55
+Adult,AssociateDegree,Boston,109431.09,14.75
+YoungAdult,PhD,New York,42478.27,29.91
+Teen,AssociateDegree,Austin,88436.55,89.67
+YoungAdult,MastersDegree,Boston,46490.15,73.65
+YoungAdult,BachelorsDegree,New York,36133.32,74.85
+Senior,PhD,Chicago,40394.97,30
+Teen,HighSchool,Los Angeles,129107.04,13.18
+Senior,MastersDegree,New York,116518.01,23.55
+Adult,BachelorsDegree,Los Angeles,74206.51,95.01
+Senior,AssociateDegree,Boston,114687.25,55.6
+YoungAdult,PhD,,67986.43,23.31
+Senior,BachelorsDegree,Boston,91095.68,20.36
+Senior,PhD,Austin,97901.66,31.82
+YoungAdult,BachelorsDegree,Austin,81777.12,16.22
+Teen,PhD,,31613.75,23.74
+YoungAdult,HighSchool,San Francisco,129021.68,19.01
+YoungAdult,BachelorsDegree,Austin,62471.57,88.2
+Adult,PhD,Miami,47885.7,69.57
+YoungAdult,BachelorsDegree,Chicago,127338.86,76.5
+YoungAdult,PhD,San Francisco,89412.68,43.18
+YoungAdult,MastersDegree,Chicago,61002.87,33.36
+Adult,MastersDegree,Los Angeles,57482.01,56.94
+Adult,HighSchool,Chicago,40062.9,21.58
+Senior,BachelorsDegree,Chicago,53517.9,
+Adult,PhD,New York,119176.48,27.23
+Senior,BachelorsDegree,Miami,112645.65,50.69
+Adult,,San Francisco,57176.48,19.48
+YoungAdult,HighSchool,,123231.54,0.25
+YoungAdult,,San Francisco,75989.73,88.04
+,HighSchool,New York,59025.5,12.12
+YoungAdult,MastersDegree,Miami,120495.93,9.73
+Adult,BachelorsDegree,Los Angeles,,86.17
+Senior,MastersDegree,Miami,38952.71,
+YoungAdult,PhD,Austin,128850.43,80.89
+,,,49382.8,38.54
+,HighSchool,Seattle,124607.57,31.89
+YoungAdult,BachelorsDegree,Miami,130675.12,85.22
+Adult,,,128412.02,7.24
+YoungAdult,MastersDegree,Chicago,118719.72,
+YoungAdult,AssociateDegree,Austin,136644.01,80.28
+Adult,BachelorsDegree,Chicago,119849.61,26.65
+YoungAdult,PhD,San Francisco,120551.88,90.95
+Senior,MastersDegree,New York,101550.9,82.23
+YoungAdult,HighSchool,Austin,141074.5,34.32
+,BachelorsDegree,Chicago,82153.96,
+,HighSchool,Los Angeles,142833.82,56.63
+YoungAdult,,San Francisco,142628.25,57.77
+Adult,AssociateDegree,Boston,105505.52,35.71
+Adult,MastersDegree,San Francisco,98937.74,12.53
+Adult,HighSchool,New York,92082.37,55.49
+YoungAdult,HighSchool,San Francisco,122362.1,28.34
+Adult,HighSchool,Austin,89602.16,79.96
+Senior,AssociateDegree,Boston,115401.62,77.21
+YoungAdult,PhD,Seattle,122406.97,68.35
+YoungAdult,PhD,Miami,89632.32,20.04
+Adult,MastersDegree,Los Angeles,113062.01,12.05
+Adult,BachelorsDegree,Boston,71364.18,
+Adult,AssociateDegree,Los Angeles,74097.72,13.56
+Teen,HighSchool,New York,,69.32
+Adult,MastersDegree,Chicago,46616.72,37.61
+Senior,PhD,San Francisco,32461.47,8.06
+Adult,PhD,Chicago,59601.89,25.4
+YoungAdult,BachelorsDegree,Seattle,132632.9,16.66
+Senior,MastersDegree,Seattle,47329.4,73.76
+YoungAdult,PhD,Austin,,35.41
+YoungAdult,BachelorsDegree,New York,54021.18,51.35
+Adult,BachelorsDegree,Boston,,18.47
+YoungAdult,BachelorsDegree,Miami,145844.38,76.91
+YoungAdult,AssociateDegree,Seattle,46342.07,
+Senior,PhD,Seattle,76920.42,49.97
+Adult,PhD,Boston,142450.79,21.59
+Senior,BachelorsDegree,Austin,80904.91,22.4
+YoungAdult,AssociateDegree,Miami,149049.27,54.37
+Senior,HighSchool,New York,122638.92,43.61
+Adult,BachelorsDegree,San Francisco,39260.92,47.77
+YoungAdult,MastersDegree,New York,51909.31,3.16
+Adult,MastersDegree,Los Angeles,101116.59,69.13
+Senior,,San Francisco,123937.49,79.74
+,HighSchool,Miami,126960.56,
+YoungAdult,HighSchool,,126441.46,83.08
+YoungAdult,HighSchool,Boston,113956.58,95.87
+YoungAdult,,Seattle,103439.38,29.97
+,,San Francisco,80172.22,16.93
+Adult,PhD,Miami,116516.15,44.08
+Adult,PhD,Miami,139259.32,51.62
+Senior,BachelorsDegree,Austin,,26.42
+YoungAdult,AssociateDegree,Boston,83543.92,56.45
+Teen,PhD,Chicago,31410.77,4.3
+Senior,BachelorsDegree,Los Angeles,91429.29,4.16
+YoungAdult,BachelorsDegree,Boston,122119.29,
+YoungAdult,AssociateDegree,New York,126486.39,
+Adult,BachelorsDegree,Los Angeles,107306.22,86.97
+Adult,AssociateDegree,Los Angeles,85467.86,37.04
+Adult,BachelorsDegree,San Francisco,145689.49,87.37
+Adult,HighSchool,San Francisco,109865.22,48.74
+Adult,HighSchool,New York,,34.91
+Adult,BachelorsDegree,Los Angeles,85628.17,7.18
+Senior,HighSchool,Los Angeles,38640.68,67.04
+Senior,BachelorsDegree,San Francisco,,
+YoungAdult,MastersDegree,Chicago,125850.75,6.94
+Adult,HighSchool,New York,145780.35,25.55
+Senior,PhD,Austin,94647.82,62.07
+Senior,AssociateDegree,Los Angeles,39674.17,47.58
+Senior,HighSchool,,55062.09,16.21
+YoungAdult,PhD,Austin,61350.89,71.73
+Adult,MastersDegree,Austin,74113.09,43.57
+Adult,PhD,New York,70062.05,35.4
+Adult,PhD,Los Angeles,91829.45,50.27
+Teen,PhD,Chicago,63885.75,57.72
+Senior,MastersDegree,Boston,139517.2,36.21
+Adult,MastersDegree,New York,56845,95.19
+Adult,PhD,New York,54449.45,21.11
+Adult,,,146779.32,62.77
+Adult,HighSchool,San Francisco,118096.11,
+YoungAdult,MastersDegree,Chicago,67488.23,69.77
+Adult,,Miami,80661.28,69.77
+Senior,PhD,San Francisco,34727.08,42.85
+Senior,HighSchool,Los Angeles,147141.62,88.49
+YoungAdult,BachelorsDegree,Chicago,121165.66,0.2
+,HighSchool,Miami,33252.31,23.58
+Senior,MastersDegree,Miami,139311.94,80.78
+Senior,BachelorsDegree,Chicago,38192.14,63.18
+,AssociateDegree,Seattle,100523.86,52.66
+,,Austin,58474.84,65.45
+Senior,BachelorsDegree,New York,139621.65,33.4
+Senior,AssociateDegree,San Francisco,58355.05,64.33
+YoungAdult,AssociateDegree,Los Angeles,50495.06,15.04
+,PhD,Boston,41723.66,53.91
+Senior,BachelorsDegree,Austin,123863.34,26.61
+Adult,MastersDegree,New York,69087.3,2.28
+Adult,MastersDegree,Seattle,55925.65,79.31
+YoungAdult,PhD,Los Angeles,78819.45,38.81
+YoungAdult,PhD,Miami,,51.14
+Senior,AssociateDegree,Seattle,121284.47,41.06
+Senior,BachelorsDegree,Miami,42029.8,2.35
+Senior,HighSchool,San Francisco,41757.61,86.35
+YoungAdult,PhD,Chicago,39871.86,50.73
+Adult,BachelorsDegree,,,19.17
+Adult,PhD,San Francisco,148360.93,17
+Adult,MastersDegree,Seattle,81210.33,50.88
+YoungAdult,PhD,Boston,,17.72
+Adult,MastersDegree,Chicago,,23.42
+YoungAdult,PhD,,82026.31,14.92
+Senior,BachelorsDegree,Miami,77125.91,73.21
+Senior,PhD,Boston,39552.5,32.38
+Adult,HighSchool,San Francisco,52690.89,94.87
+Senior,AssociateDegree,Los Angeles,117092.49,88.34
+,HighSchool,Seattle,49719.98,56.47
+Senior,MastersDegree,Boston,138980.12,96.83
+YoungAdult,AssociateDegree,Austin,97320.41,67.76
+Senior,AssociateDegree,San Francisco,50829.51,64.5
+Adult,HighSchool,Los Angeles,33074.26,31.8
+,AssociateDegree,Miami,89808.86,71.26
+Teen,AssociateDegree,New York,117757.65,80.28
+YoungAdult,,San Francisco,146086.25,90.77
+YoungAdult,HighSchool,New York,30767.16,65.72
+Adult,PhD,Seattle,102634.88,98.98
+YoungAdult,BachelorsDegree,Los Angeles,57383.12,
+YoungAdult,AssociateDegree,New York,44335.53,87.93
+Senior,HighSchool,Boston,,94.22
+YoungAdult,BachelorsDegree,Chicago,133901.46,34.07
+Adult,HighSchool,Austin,63227.89,30.87
+YoungAdult,AssociateDegree,Austin,59892.62,35.81
+YoungAdult,PhD,Boston,30370.29,22.74
+,PhD,Los Angeles,,74.81
+Adult,BachelorsDegree,Boston,143771.98,71.8
+Adult,PhD,Seattle,106793.85,82.17
+YoungAdult,MastersDegree,Austin,105309.24,16.86
+Teen,AssociateDegree,Los Angeles,46107.67,85.82
+Adult,PhD,Chicago,143767.68,43.63
+YoungAdult,AssociateDegree,New York,71049.84,96.7
+Teen,AssociateDegree,New York,70386.92,
+YoungAdult,BachelorsDegree,Los Angeles,30996.05,71.09
+Adult,AssociateDegree,Miami,74184.78,
+YoungAdult,PhD,Chicago,112427.38,9.42
+Adult,,Seattle,132552.15,
+Adult,AssociateDegree,New York,132761.65,26.72
+Senior,PhD,Boston,58858.96,90.86
+,PhD,Miami,142267.44,48.17
+Senior,AssociateDegree,New York,33081.33,62.07
+YoungAdult,HighSchool,Seattle,74981.62,8.4
+Senior,BachelorsDegree,Chicago,69943.31,29.94
+YoungAdult,AssociateDegree,Austin,111785.65,30.33
+Adult,MastersDegree,New York,79809.91,63.08
+Adult,,Miami,51847.81,94.71
+Adult,BachelorsDegree,Miami,99436.61,31.37
+Senior,,San Francisco,58145.43,16.82
+Teen,BachelorsDegree,San Francisco,69219.28,27.24
+,PhD,Seattle,112061.29,42.08
+YoungAdult,AssociateDegree,Chicago,88437.23,80.78
+Adult,HighSchool,New York,32416.37,65.37
+YoungAdult,MastersDegree,Boston,87373.36,38
+Senior,HighSchool,New York,33567.4,
+Adult,AssociateDegree,Miami,47938.57,
+YoungAdult,BachelorsDegree,New York,64165.86,72.99
+Senior,PhD,Boston,127623.98,58.22
+,MastersDegree,Chicago,144469.15,63.98
+Adult,BachelorsDegree,San Francisco,82381.43,81.83
+Senior,MastersDegree,Chicago,71363.96,15.36
+YoungAdult,HighSchool,Boston,76676.81,74.35
+YoungAdult,MastersDegree,Los Angeles,,42.84
+Adult,,Boston,67244.05,
+Adult,MastersDegree,Los Angeles,37546.99,76.07
+YoungAdult,AssociateDegree,Austin,139159.11,49.37
+YoungAdult,MastersDegree,Austin,96920.96,32.94
+Adult,PhD,New York,60057.01,31.96
+Adult,AssociateDegree,San Francisco,53145.41,13.27
+Adult,BachelorsDegree,Miami,133222.03,22.48
+Adult,HighSchool,New York,66242.12,82.69
+YoungAdult,MastersDegree,Seattle,89983.36,27.4
+Adult,MastersDegree,New York,58050.1,5.97
+Senior,AssociateDegree,Chicago,98838.54,51.85
+Senior,HighSchool,Los Angeles,137687.61,38.07
+,MastersDegree,Los Angeles,97508.76,38.97
+Adult,PhD,Los Angeles,77739.41,69.12
+YoungAdult,BachelorsDegree,Austin,136214.86,98.81
+,HighSchool,Boston,56157.32,23.67
+Adult,MastersDegree,San Francisco,60062.83,61.72
+Teen,AssociateDegree,Austin,92179.63,11.57
+YoungAdult,PhD,Miami,115163.87,2.81
+YoungAdult,AssociateDegree,Chicago,53937.29,94.39
+Adult,PhD,Los Angeles,142658.32,28.25
+Adult,MastersDegree,San Francisco,69834.74,50.92
+Adult,BachelorsDegree,Los Angeles,101315.07,99.77
+Adult,BachelorsDegree,San Francisco,68702.4,68.48
+Adult,MastersDegree,Los Angeles,,45.65
+Senior,MastersDegree,Boston,80928.91,72.24
+Adult,AssociateDegree,Seattle,131563.98,4.57
+Adult,PhD,Los Angeles,133342.77,
+Adult,BachelorsDegree,Austin,129530.76,60.07
+YoungAdult,AssociateDegree,Los Angeles,37866.77,91.73
+Adult,BachelorsDegree,San Francisco,36460.7,71.99
+Adult,MastersDegree,Austin,148882.46,4.3
+,PhD,Austin,112094.34,9.91
+YoungAdult,PhD,San Francisco,141192.35,7.62
+Adult,AssociateDegree,Chicago,122359.73,98.67
+Senior,HighSchool,San Francisco,146024.89,37.98
+Senior,MastersDegree,San Francisco,140055.15,80.22
+Senior,AssociateDegree,Chicago,81251.57,98.53
+Adult,PhD,Chicago,45700.37,98.89
+YoungAdult,PhD,,42457.29,44.16
+Adult,PhD,Miami,68448.53,22.64
+Teen,PhD,Austin,140514.6,84.17
+YoungAdult,AssociateDegree,San Francisco,44904.27,18.22
+YoungAdult,BachelorsDegree,Chicago,,70.96
+Senior,HighSchool,New York,54466.39,85.04
+YoungAdult,HighSchool,Seattle,82153.88,18.34
+Senior,MastersDegree,Boston,60789.36,69.51
+Senior,MastersDegree,New York,30825.59,98.41
+Adult,PhD,San Francisco,48194.09,62.08
+Senior,HighSchool,Boston,66083.22,37.8
+Senior,PhD,Miami,54689.37,88.11
+YoungAdult,BachelorsDegree,Chicago,140104.3,68.01
+Adult,BachelorsDegree,New York,94108.02,11.09
+Senior,AssociateDegree,Boston,147436.59,74.78
+YoungAdult,AssociateDegree,New York,128300.05,86.83
+,HighSchool,,141581.55,52.78
+Adult,MastersDegree,San Francisco,85350.09,91.75
+Senior,HighSchool,Chicago,71815.74,37.75
+Adult,PhD,Austin,124076.39,71.4
+Senior,PhD,Austin,51158.67,56.51
+YoungAdult,BachelorsDegree,Los Angeles,41929.61,10.48
+Teen,PhD,Los Angeles,97552.07,
+YoungAdult,MastersDegree,Boston,69824.81,23.5
+Adult,AssociateDegree,Miami,49336.72,18.87
+Adult,MastersDegree,Chicago,113706.21,7.21
+Adult,HighSchool,Austin,137369.75,41.18
+YoungAdult,BachelorsDegree,New York,118936.81,58.41
+YoungAdult,AssociateDegree,New York,86284.13,19.79
+Adult,BachelorsDegree,Chicago,114350.1,29.74
+Adult,MastersDegree,Austin,95659.31,90.39
+YoungAdult,BachelorsDegree,San Francisco,120921.25,4.31
+Senior,BachelorsDegree,Boston,134373.9,76.43
+YoungAdult,PhD,Austin,54595.03,63.5
+YoungAdult,HighSchool,,59189.28,98.42
+Adult,MastersDegree,New York,50825.24,12.35
+Senior,AssociateDegree,Boston,63019.9,58.54
+Adult,BachelorsDegree,Miami,121942.99,70.99
+Adult,PhD,Boston,,98.17
+Senior,PhD,Miami,56695.99,82.45
+Senior,AssociateDegree,Los Angeles,99216.55,96.56
+YoungAdult,HighSchool,San Francisco,,38.01
+,PhD,Austin,52973.07,73.65
+Teen,MastersDegree,New York,137006.33,0
+,BachelorsDegree,Seattle,96101.01,89.9
+Senior,BachelorsDegree,Chicago,105026.56,45.51
+YoungAdult,BachelorsDegree,Austin,54984.42,96.97
+Adult,MastersDegree,Chicago,123797.41,62.56
+Senior,BachelorsDegree,Seattle,,21.48
+Senior,HighSchool,Los Angeles,,5.55
+Senior,BachelorsDegree,New York,102069.34,87.15
+Senior,MastersDegree,Austin,75497.82,81.49
+Senior,BachelorsDegree,Austin,97722.63,26.33
+Senior,BachelorsDegree,Miami,40655.83,42.15
+YoungAdult,BachelorsDegree,Austin,34400.78,1.04
+YoungAdult,BachelorsDegree,San Francisco,143774.95,60.76
+Senior,AssociateDegree,San Francisco,82626.79,33.21
+Senior,MastersDegree,Miami,74597.42,85.08
+Teen,BachelorsDegree,Miami,52703.66,93.22
+Adult,HighSchool,Miami,97907.89,23.95
+YoungAdult,AssociateDegree,Miami,99505.3,20.94
+,AssociateDegree,Austin,135872.44,55.54
+Senior,PhD,New York,120393.16,3.41
+,AssociateDegree,Chicago,63162.05,93.74
+Adult,BachelorsDegree,Seattle,110014.52,1.44
+YoungAdult,AssociateDegree,San Francisco,54421.42,73.42
+Senior,AssociateDegree,Boston,147530.46,99.46
+Adult,PhD,Boston,141869.12,64.62
+Adult,HighSchool,Los Angeles,99414.12,44.07
+Senior,BachelorsDegree,Los Angeles,36246.25,39.62
+Senior,AssociateDegree,Los Angeles,91236.96,58.03
+Adult,AssociateDegree,Seattle,37511.81,21.29
+Senior,AssociateDegree,Chicago,58192.41,70.32
+Adult,AssociateDegree,New York,116434.92,
+Senior,AssociateDegree,San Francisco,83037.54,52.06
+Adult,BachelorsDegree,San Francisco,36012.79,90.5
+YoungAdult,HighSchool,Chicago,47274.21,20.55
+,BachelorsDegree,Seattle,,43.29
+YoungAdult,MastersDegree,Austin,148122.81,16.17
+,HighSchool,Boston,,73.72
+YoungAdult,PhD,San Francisco,94472.09,82.67
+YoungAdult,PhD,Boston,60328.69,89.73
+YoungAdult,AssociateDegree,Los Angeles,124625.98,45.85
+Adult,MastersDegree,Los Angeles,,53.8
+YoungAdult,PhD,New York,139008.22,75.02
+Senior,BachelorsDegree,New York,85800.37,61.08
+,MastersDegree,Los Angeles,78720.66,0.19
+,HighSchool,New York,63184.89,66.55
+Senior,MastersDegree,Chicago,,95.64
+Adult,BachelorsDegree,Seattle,85689.13,58.11
+Adult,HighSchool,Seattle,124430.43,
+Senior,PhD,,124700.61,93.81
+Senior,PhD,Austin,105858.91,58.88
+Senior,MastersDegree,Los Angeles,113513.62,81.68
+Senior,AssociateDegree,New York,91646.6,55.43
+YoungAdult,AssociateDegree,Seattle,48188.25,77.17
+YoungAdult,BachelorsDegree,Austin,139520.94,21.41
+Adult,BachelorsDegree,Los Angeles,121808.72,40.7
+Senior,,Chicago,54767.12,
+Adult,HighSchool,Los Angeles,120098.69,
+Senior,HighSchool,Austin,87217.2,45.28
+Adult,BachelorsDegree,Miami,148770.19,89.55
+,HighSchool,Miami,108334.18,23.72
+YoungAdult,,San Francisco,140408.36,
+Senior,BachelorsDegree,Boston,149167.44,5.68
+YoungAdult,BachelorsDegree,Los Angeles,135914.52,2.7
+YoungAdult,,Austin,43251.08,72.69
+Senior,HighSchool,Miami,54002.31,56.34
+Senior,MastersDegree,Seattle,86101.55,21.42
+YoungAdult,BachelorsDegree,Miami,68630.44,62.9
+Adult,HighSchool,New York,114272.66,24.69
+,HighSchool,Miami,83999.84,22.88
+YoungAdult,,Chicago,85327.61,0.21
+Senior,HighSchool,Miami,103416.57,98.58
+,PhD,Boston,76554.88,52.05
+YoungAdult,BachelorsDegree,San Francisco,79963.67,36.63
+YoungAdult,AssociateDegree,Los Angeles,75431.22,28.02
+YoungAdult,PhD,Seattle,146780.9,81.6
+YoungAdult,BachelorsDegree,Los Angeles,84140.69,21.27
+YoungAdult,AssociateDegree,New York,51947.9,65.9
+Senior,MastersDegree,San Francisco,97412.88,95.24
+Adult,MastersDegree,Los Angeles,55794.01,12.84
+YoungAdult,HighSchool,Seattle,111363.11,87.94
+Senior,HighSchool,,83148.16,80.49
+,MastersDegree,Los Angeles,100446.97,66.74
+Teen,BachelorsDegree,Boston,128065.51,38.4
+Adult,AssociateDegree,Boston,95364.02,56.02
+Senior,BachelorsDegree,Los Angeles,139678.75,55.89
+Adult,HighSchool,,67876.59,52.69
+Teen,MastersDegree,San Francisco,112752.31,5.63
+YoungAdult,PhD,New York,147634.27,39.04
+YoungAdult,MastersDegree,Boston,148161.84,89.22
+Adult,PhD,Boston,45996.3,87.32
+Senior,BachelorsDegree,Miami,68773.61,46.49
+Teen,MastersDegree,Boston,118853.17,83.38
+YoungAdult,MastersDegree,Boston,60332.71,29.09
+Senior,BachelorsDegree,New York,30244.18,59.51
+Adult,PhD,Boston,57600.91,48.93
+Senior,HighSchool,Boston,72128.39,44.69
+Adult,PhD,Chicago,,69.98
+Senior,BachelorsDegree,Austin,77034.08,31.42
+Teen,BachelorsDegree,Miami,51395.71,1.65
+YoungAdult,AssociateDegree,New York,132498.29,98.53
+Senior,MastersDegree,Boston,96371.23,49.56
+YoungAdult,PhD,Seattle,99835.07,94
+Teen,PhD,Miami,34521.51,73.4
+,,Miami,80339.02,51.89
+Senior,PhD,Miami,69988.35,25.53
+,MastersDegree,Chicago,66571.06,53.18
+Senior,BachelorsDegree,New York,141117.39,95.25
+Adult,AssociateDegree,Miami,89651.42,98.29
+Adult,MastersDegree,,125937.82,50.13
+Senior,MastersDegree,Boston,122116.93,98.37
+,HighSchool,,138863.01,59.07
+YoungAdult,BachelorsDegree,Boston,74787.03,67.95
+Adult,BachelorsDegree,Los Angeles,75101.24,20.97
+YoungAdult,BachelorsDegree,Seattle,51537.88,65.32
+Teen,AssociateDegree,Chicago,145556.32,96.48
+Senior,MastersDegree,New York,55649.99,22.98
+YoungAdult,PhD,,94036.1,2.49
+Adult,AssociateDegree,San Francisco,47141.89,42.99
+Teen,BachelorsDegree,Chicago,140670.55,1.96
+YoungAdult,MastersDegree,Miami,102374.01,83.88
+YoungAdult,AssociateDegree,Miami,145742.37,15.44
+,BachelorsDegree,,77785.84,88.68
+Senior,PhD,Boston,,
+,PhD,Seattle,97451.92,55.28
+Teen,PhD,Seattle,53717.89,55.91
+Adult,HighSchool,Chicago,49966.38,62.29
+,BachelorsDegree,,145573.84,0.17
+Adult,AssociateDegree,Austin,97722.85,34.82
+Adult,MastersDegree,San Francisco,138628.77,51.56
+Adult,BachelorsDegree,New York,104336.58,23.5
+Adult,BachelorsDegree,Miami,75877.62,78.26
+Teen,BachelorsDegree,Seattle,130110.07,3.7
+Senior,MastersDegree,Chicago,121219.02,29.43
+Senior,BachelorsDegree,Los Angeles,44929.85,93.33
+YoungAdult,,Miami,68210.55,85.33
+Adult,BachelorsDegree,Miami,117553.89,34.51
+Adult,BachelorsDegree,Boston,59372.84,44.46
+Adult,BachelorsDegree,Chicago,70617.82,75.65
+YoungAdult,PhD,,72890.69,
+Senior,BachelorsDegree,Seattle,54333.37,86.2
+YoungAdult,,Austin,124143.64,93.57
+Senior,PhD,Los Angeles,131033.05,16.04
+Adult,AssociateDegree,Seattle,,67.34
+YoungAdult,HighSchool,Seattle,73756.79,
+Senior,,,122211.99,55.33
+Senior,HighSchool,Austin,99912.69,64.05
+YoungAdult,HighSchool,Miami,109984.26,82.74
+YoungAdult,AssociateDegree,Los Angeles,116329.12,59.8
+Senior,HighSchool,Los Angeles,45460.67,88.71
+YoungAdult,HighSchool,Los Angeles,63056.47,10.47
+YoungAdult,HighSchool,Miami,139627.63,85.33
+Senior,AssociateDegree,San Francisco,54935.89,41.33
+YoungAdult,PhD,Austin,54880.81,62.07
+YoungAdult,AssociateDegree,Chicago,71386.56,29.49
+YoungAdult,BachelorsDegree,Los Angeles,147661.45,13.01
+Senior,PhD,Austin,82076.09,80.14
+Adult,,New York,145771.09,11.43
+,HighSchool,Miami,140722.38,34.71
+,BachelorsDegree,New York,84929.52,50.77
+,HighSchool,San Francisco,84829.06,71.07
+YoungAdult,BachelorsDegree,Seattle,118868.32,
+Senior,MastersDegree,Boston,148067.62,28.81
+,PhD,Boston,66046.74,95.37
+Adult,PhD,Seattle,125048.67,27.36
+Senior,MastersDegree,New York,69172.7,79.99
+Senior,BachelorsDegree,Los Angeles,,20.04
+Adult,HighSchool,Boston,115725.18,15.42
+Adult,HighSchool,Austin,137997.77,80.67
+,HighSchool,San Francisco,67911.87,88.58
+YoungAdult,MastersDegree,Miami,74167.03,52.18
+YoungAdult,BachelorsDegree,Chicago,147927.83,77.96
+Senior,HighSchool,Los Angeles,,91.82
+Senior,MastersDegree,Chicago,112427.44,28.52
+Adult,HighSchool,New York,43632.05,38.4
+YoungAdult,MastersDegree,New York,114219.97,23.17
+YoungAdult,PhD,Austin,113415.86,39.44
+YoungAdult,PhD,New York,,98.64
+Senior,BachelorsDegree,San Francisco,58082.01,87.75
+Adult,MastersDegree,San Francisco,60669.68,
+Senior,AssociateDegree,,,43.72
+Adult,PhD,Chicago,85129.37,71.44
+,AssociateDegree,Boston,,84.26
+Senior,HighSchool,Chicago,50051.17,77.64
+Adult,PhD,Chicago,130066.56,43.09
+Adult,BachelorsDegree,Austin,33276.34,20.18
+Senior,PhD,Boston,65544.02,26.94
+YoungAdult,HighSchool,San Francisco,37216.81,10.37
+YoungAdult,AssociateDegree,Seattle,82556.47,9.7
+Adult,HighSchool,Los Angeles,,28.61
+Senior,BachelorsDegree,Miami,100196.31,24.47
+Teen,AssociateDegree,Los Angeles,117900.93,55.76
+Teen,MastersDegree,Los Angeles,,0
+,,Boston,131501.11,93.74
+Senior,AssociateDegree,Los Angeles,,29.92
+,AssociateDegree,Seattle,44308.45,88.9
+Adult,MastersDegree,Austin,117034.31,35.36
+Adult,BachelorsDegree,New York,124928.81,96.02
+Adult,PhD,Seattle,75750.97,59.63
+YoungAdult,AssociateDegree,Seattle,110630.85,
+Adult,,Boston,,13.32
+YoungAdult,MastersDegree,Miami,137932.93,2.72
+YoungAdult,MastersDegree,Boston,140815.41,26.7
+Adult,HighSchool,Austin,95372.2,80.95
+Senior,PhD,San Francisco,72617.64,24.87
+YoungAdult,BachelorsDegree,Boston,80019.23,
+Adult,AssociateDegree,Miami,34290.79,57.28
+Adult,BachelorsDegree,Seattle,141174.95,67.9
+Adult,BachelorsDegree,Seattle,70311.17,12.55
+Senior,PhD,Seattle,74265.03,25.28
+Adult,MastersDegree,Los Angeles,70890.34,33.7
+YoungAdult,AssociateDegree,Seattle,114348.69,27.01
+Senior,MastersDegree,Los Angeles,83100.37,51.21
+,BachelorsDegree,Austin,133804.26,29.52
+Adult,HighSchool,Chicago,107113.86,
+YoungAdult,AssociateDegree,Austin,45922.67,86.56
+Teen,BachelorsDegree,Seattle,96127.98,40.27
+YoungAdult,PhD,Seattle,137973.5,
+Senior,BachelorsDegree,Chicago,85005.85,21.7
+Senior,HighSchool,New York,88323.61,93.43
+Adult,PhD,Seattle,140753.29,31.77
+Senior,BachelorsDegree,Boston,85703.15,98.58
+Senior,HighSchool,New York,146125.11,61.9
+YoungAdult,HighSchool,Austin,85304.97,13.92
+YoungAdult,BachelorsDegree,Los Angeles,95130.39,72.65
+Teen,BachelorsDegree,New York,141502.52,16.53
+Senior,BachelorsDegree,Seattle,61497.01,41.28
+Adult,MastersDegree,Los Angeles,130890.81,53.79
+YoungAdult,PhD,Los Angeles,140799.18,
+Senior,MastersDegree,Miami,41573.35,62.45
+YoungAdult,BachelorsDegree,Austin,136502.97,46.43
+YoungAdult,HighSchool,,117278.59,74.88
+Teen,PhD,Chicago,,37.09
+YoungAdult,HighSchool,Seattle,138890.87,43.3
+Teen,MastersDegree,,31287.89,53.09
+Senior,AssociateDegree,Seattle,44043.28,80.18
+Adult,HighSchool,Austin,101432.52,18.05
+Adult,HighSchool,Austin,100873.34,83.05
+Adult,PhD,Miami,47142.27,7.18
+YoungAdult,BachelorsDegree,New York,121071.5,
+Senior,BachelorsDegree,Seattle,132140.28,33.31
+Senior,BachelorsDegree,Seattle,56899.68,93.68
+,PhD,Chicago,141562.6,
+Adult,,Seattle,84794.85,8.52
+Adult,AssociateDegree,Boston,135747.94,32.35
+Adult,HighSchool,New York,38193.3,4.36
+Senior,HighSchool,Miami,31455.79,55.36
+YoungAdult,PhD,Los Angeles,138207.64,29.44
+Adult,AssociateDegree,Miami,144671.14,39.94
+Senior,BachelorsDegree,Austin,63498.71,75.49
+,HighSchool,Austin,149149.14,26.74
+Adult,AssociateDegree,Boston,148674.39,69.37
+Senior,PhD,Chicago,59740.45,1.85
+YoungAdult,PhD,Boston,90538.7,5.35
+YoungAdult,MastersDegree,Boston,112323.96,54.04
+Adult,PhD,Seattle,140565.09,48.08
+Senior,HighSchool,Austin,113910.73,27.72
+Senior,PhD,Austin,75462.4,42.34
+,MastersDegree,Miami,138643.23,50.59
+YoungAdult,HighSchool,Chicago,124817.96,19.2
+Senior,MastersDegree,Miami,149126.39,86.42
+Teen,HighSchool,Boston,95340.25,26.78
+YoungAdult,AssociateDegree,,106691.61,71.76
+YoungAdult,AssociateDegree,,43859.33,34.85
+Adult,MastersDegree,San Francisco,137640.71,94.21
+YoungAdult,BachelorsDegree,Miami,38706.87,73.12
+,BachelorsDegree,Seattle,57615.94,77.54
+Senior,MastersDegree,New York,132077.07,
+Adult,PhD,Austin,36970.01,22.43
+YoungAdult,,San Francisco,104010.77,19.28
+,PhD,Los Angeles,144646.88,89.38
+Adult,BachelorsDegree,Miami,,73.37
+Senior,AssociateDegree,New York,114873.94,36.84
+,AssociateDegree,San Francisco,132780.73,39.17
+,MastersDegree,New York,69653.52,97.85
+Adult,AssociateDegree,Austin,114177.7,86.58
+Senior,MastersDegree,New York,91787.86,43.92
+Adult,MastersDegree,Boston,45239.7,40.27
+YoungAdult,PhD,Seattle,114376.19,16.16
+Senior,BachelorsDegree,Boston,127766.4,24
+Senior,AssociateDegree,San Francisco,44178.3,41.82
+YoungAdult,AssociateDegree,Boston,91120.54,31.14
+Teen,BachelorsDegree,Seattle,40823.98,24.47
+,MastersDegree,Austin,,53.74
+YoungAdult,AssociateDegree,San Francisco,54650.14,1.6
+YoungAdult,BachelorsDegree,Boston,99023.33,43.51
+Teen,AssociateDegree,Boston,87210.13,86.77
+Adult,AssociateDegree,Boston,135462.16,4.91
+,HighSchool,Boston,85869.9,89.12
+Senior,PhD,Boston,63910.1,45.97
+Senior,HighSchool,Miami,119985.94,19.25
+YoungAdult,AssociateDegree,Boston,143380.88,43.7
+Senior,HighSchool,Seattle,67256.78,58.4
+Senior,BachelorsDegree,San Francisco,105818.33,7.29
+YoungAdult,AssociateDegree,Seattle,89576.48,83.13
+Senior,PhD,Seattle,41222.37,59.71
+Senior,BachelorsDegree,New York,137440.24,21.14
+YoungAdult,HighSchool,San Francisco,85522.58,86.88
+Senior,PhD,Chicago,139500.58,80.42
+Adult,AssociateDegree,Miami,46119.63,14.09
+Senior,BachelorsDegree,,117018.11,63.04
+Senior,HighSchool,San Francisco,67198.34,
+Adult,AssociateDegree,Los Angeles,95653.92,23.78
+Senior,HighSchool,San Francisco,45535.72,68.1
+,BachelorsDegree,Austin,85365.19,49.84
+,MastersDegree,Chicago,94379.01,27.22
+Adult,HighSchool,Seattle,127947.36,27.71
+Adult,PhD,Austin,119157.39,53.78
+Adult,AssociateDegree,Seattle,131702.98,
+YoungAdult,PhD,Seattle,96502.77,68.91
+Senior,MastersDegree,Chicago,137219.69,88.44
+YoungAdult,AssociateDegree,Boston,89515.04,65.14
+Senior,MastersDegree,Austin,132674.05,56.81
+Senior,MastersDegree,Seattle,35022.46,12.29
+Senior,HighSchool,New York,56482.69,59.34
+Adult,HighSchool,Austin,88451.19,63.82
+Adult,PhD,San Francisco,46970.06,79.82
+Adult,AssociateDegree,Austin,98583.64,80.2
+Senior,HighSchool,San Francisco,81864.43,69.71
+YoungAdult,BachelorsDegree,Boston,,
+Adult,BachelorsDegree,Austin,47222.95,86.8
+Teen,MastersDegree,Miami,142013.88,11.32
+Teen,AssociateDegree,Miami,130263.87,85.39
+Adult,HighSchool,New York,40239.44,21.73
+YoungAdult,PhD,San Francisco,93804.68,3.81
+YoungAdult,BachelorsDegree,Boston,106985.93,35.76
+Senior,HighSchool,Boston,137500.01,89.72
+YoungAdult,HighSchool,Austin,126859.33,30.81
+Senior,BachelorsDegree,New York,138628.47,6.98
+YoungAdult,MastersDegree,,41051.23,90.53
+Teen,AssociateDegree,Miami,78261.44,90.76
+YoungAdult,AssociateDegree,Boston,,13.16
+YoungAdult,BachelorsDegree,Miami,147854.01,35.74
+Adult,AssociateDegree,Los Angeles,136537.11,61.38
+YoungAdult,AssociateDegree,Austin,44840.81,80.77
+Teen,BachelorsDegree,Austin,145518.88,54.19
+Senior,AssociateDegree,Los Angeles,115759.72,49.02
+Senior,BachelorsDegree,Austin,55509.99,77.62
+Senior,PhD,Los Angeles,144718.55,79.78
+Senior,PhD,New York,138430.33,9.82
+Senior,MastersDegree,Boston,47151.87,47.95
+Teen,PhD,Los Angeles,47447.61,28.32
+YoungAdult,AssociateDegree,Boston,146363.26,92.94
+Adult,BachelorsDegree,Chicago,145514.33,
+Adult,MastersDegree,San Francisco,131488,95.98
+Senior,PhD,Boston,33772.3,
+YoungAdult,PhD,Chicago,70432.91,67.42
+Senior,PhD,Austin,68995.66,33.65
+YoungAdult,HighSchool,San Francisco,38430.51,30.66
+Adult,,Miami,32214.27,74.66
+Adult,PhD,Austin,119751.53,44.79
+YoungAdult,BachelorsDegree,New York,60568.48,96.31
+Teen,AssociateDegree,New York,65862.05,9.6
+Adult,BachelorsDegree,Chicago,32768.27,38.55
+Adult,HighSchool,Chicago,114123.19,51.71
+Senior,PhD,Boston,60173.04,9.91
+,BachelorsDegree,San Francisco,134436.53,67.12
+Adult,PhD,New York,99750.92,1.13
+,MastersDegree,Seattle,132519.53,19.34
+Senior,HighSchool,New York,103832.27,28.55
+Adult,MastersDegree,San Francisco,55386.73,57.84
+YoungAdult,AssociateDegree,Miami,,67.55
+Adult,MastersDegree,Boston,49922.14,16.73
+Senior,HighSchool,Los Angeles,60440.47,10.08
+Senior,HighSchool,Chicago,97856.11,75.58
+Senior,BachelorsDegree,San Francisco,53608.65,
+Senior,,Chicago,149224.62,25.14
+Teen,AssociateDegree,,108509.24,56.61
+Adult,PhD,Boston,64732.7,5.38
+YoungAdult,HighSchool,Miami,,92.81
+YoungAdult,BachelorsDegree,Miami,134614.72,1.2
+Senior,PhD,Chicago,42181.96,63.45
+YoungAdult,AssociateDegree,Boston,132688.27,1.5
+Adult,PhD,Austin,47891.92,26.83
+Adult,MastersDegree,Chicago,112770.88,3.21
+Adult,HighSchool,Chicago,113616.25,
+Senior,MastersDegree,Los Angeles,97705.32,32.02
+YoungAdult,PhD,Seattle,111020.74,
+,AssociateDegree,Chicago,87217.05,70.45
+YoungAdult,HighSchool,San Francisco,81372.38,6.96
+Senior,BachelorsDegree,Seattle,,7.03
+Adult,HighSchool,Miami,82813.49,71.5
+Adult,MastersDegree,San Francisco,,22.64
+Adult,PhD,Chicago,,55.04
+Senior,BachelorsDegree,San Francisco,78460.91,92.3
+Adult,MastersDegree,Seattle,128232.73,81.19
+Senior,AssociateDegree,Los Angeles,61341,10.94
+YoungAdult,BachelorsDegree,San Francisco,53340.26,20.32
+YoungAdult,HighSchool,Miami,60107.21,31.11
+Senior,PhD,Austin,67719.94,55.52
+YoungAdult,PhD,San Francisco,90569.78,83.61
+Adult,BachelorsDegree,New York,144420.23,78.09
+Adult,AssociateDegree,Seattle,135841.56,68.61
+Senior,PhD,Seattle,117348.57,88.38
+Adult,PhD,Seattle,130556.14,98.96
+,PhD,Austin,127115.82,20.28
+Adult,,Boston,132609.36,93.95
+YoungAdult,AssociateDegree,Chicago,94146.24,92.19
+YoungAdult,AssociateDegree,San Francisco,,84.94
+Senior,BachelorsDegree,New York,,36.63
+Senior,PhD,San Francisco,49461.08,67.86
+Adult,,San Francisco,74175.54,57.2
+Senior,BachelorsDegree,San Francisco,125575.36,50.91
+Adult,HighSchool,Los Angeles,45326.98,57.87
+Adult,HighSchool,Miami,,3.69
+YoungAdult,MastersDegree,,,26.93
+YoungAdult,HighSchool,Boston,90033.81,69.8
+Adult,PhD,,145208.5,53.6
+YoungAdult,HighSchool,Boston,55218.48,2.66
+Teen,,,,72.7
+Adult,AssociateDegree,San Francisco,56399.63,92.25
+Senior,,Chicago,131645.04,20.77
+Senior,MastersDegree,Chicago,76357.7,53.19
+Adult,AssociateDegree,Los Angeles,35061.32,86.78
+Senior,AssociateDegree,Seattle,35047.86,96.7
+Senior,HighSchool,San Francisco,115295.22,96.56
+YoungAdult,MastersDegree,Chicago,72966.41,77.85
+Adult,HighSchool,Boston,38931.78,76.96
+Adult,,Chicago,37224.53,72.6
+Senior,HighSchool,Los Angeles,138649.63,52
+YoungAdult,MastersDegree,San Francisco,59949.89,52.41
+Senior,AssociateDegree,Boston,143430.07,91.32
+YoungAdult,AssociateDegree,San Francisco,30112.04,52.68
+Adult,BachelorsDegree,Austin,66428.99,86.96
+Senior,MastersDegree,Chicago,108599.03,
+Adult,MastersDegree,Austin,,46.42
+Adult,PhD,Los Angeles,101747.58,90.04
+Teen,HighSchool,Austin,125680.87,57.9
+,,New York,,58.88
+YoungAdult,BachelorsDegree,Chicago,135744.9,41.62
+YoungAdult,HighSchool,Austin,136412.03,66.35
+Senior,MastersDegree,San Francisco,127161.26,6.85
+Adult,BachelorsDegree,,135167,20.25
+,PhD,New York,,25.21
+YoungAdult,BachelorsDegree,San Francisco,90906.24,81
+Adult,PhD,San Francisco,130799.45,90.87
+Adult,PhD,,115644.36,24.52
+Senior,,Boston,76549.72,31.14
+YoungAdult,BachelorsDegree,Miami,105157.56,73.74
